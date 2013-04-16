@@ -1,0 +1,17 @@
+Tetravex solver v1
+Andrew Grammenos (andreas.grammenos@gmail.com
+Tetravex solver using Simulated Annealing did 10006 iterations and lasted approximately: 23.1683  seconds
+Solution is: 
+
+--6-- --9-- --1-- 
+2---4 1---9 6---1 
+--8-- --6-- --4-- 
+
+--4-- --0-- --7-- 
+9---6 1---1 9---8 
+--6-- --6-- --9-- 
+
+--8-- --9-- --6-- 
+4---9 6---7 4---6 
+--8-- --1-- --4-- 
+

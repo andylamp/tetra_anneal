@@ -1,0 +1,17 @@
+Tetravex solver v1
+Andrew Grammenos (andreas.grammenos@gmail.com
+Tetravex solver made 0 node expansions and lasted approximately: 1.7990  seconds
+Solution is: 
+
+--0-- --1-- --6-- 
+1---1 6---1 4---6 
+--6-- --4-- --4-- 
+
+--7-- --6-- --9-- 
+9---8 2---4 1---9 
+--9-- --8-- --6-- 
+
+--9-- --8-- --4-- 
+6---7 4---9 9---6 
+--1-- --8-- --6-- 
+
